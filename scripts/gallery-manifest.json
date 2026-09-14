@@ -1,0 +1,483 @@
+{
+ "render": [
+  {
+   "cat": "A",
+   "file": "assets/render/r03.webp",
+   "cap": "夜幕公路 · 车身反射与雾霭",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "cat": "A",
+   "file": "assets/render/r04.webp",
+   "cap": "石板街景 · 环境色与车漆",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "cat": "A",
+   "file": "assets/render/r39.webp",
+   "cap": "雪湖之上 · 冷调环境光",
+   "w": 1280,
+   "h": 552
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r11.webp",
+   "cap": "复古音浪 · 桌面静物布光",
+   "w": 1680,
+   "h": 938
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r14.webp",
+   "cap": "铸铁锅 · 匠心质感与油烟",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r15.webp",
+   "cap": "电竞椅 · 暗调硬朗产品光",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r16.webp",
+   "cap": "腕表 · 草地自然光",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r19.webp",
+   "cap": "刮毛器 · 木纹与绒面",
+   "w": 750,
+   "h": 1125
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r20.webp",
+   "cap": "清洁家电 · 居家陈列",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r35.webp",
+   "cap": "音响 · 客厅沉浸场景",
+   "w": 1680,
+   "h": 944
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r36.webp",
+   "cap": "自行车 · 纯净棚拍",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r37.webp",
+   "cap": "头戴耳机 · 木桌静物",
+   "w": 1280,
+   "h": 720
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r38.webp",
+   "cap": "游戏手柄 · 纯黑高光",
+   "w": 1680,
+   "h": 825
+  },
+  {
+   "cat": "B",
+   "file": "assets/render/r41.webp",
+   "cap": "洗衣机 · 电商主图",
+   "w": 1203,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r17.webp",
+   "cap": "精华 · 金色流体光泽",
+   "w": 1094,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r18.webp",
+   "cap": "精华 · 草地绿意",
+   "w": 1117,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r21.webp",
+   "cap": "玫瑰香水 · 花瓣与玻璃",
+   "w": 750,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r22.webp",
+   "cap": "面霜 · 柔光棚拍",
+   "w": 713,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r23.webp",
+   "cap": "香水 · 苔藓森林",
+   "w": 670,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r24.webp",
+   "cap": "面霜 · 霜石质感",
+   "w": 788,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r25.webp",
+   "cap": "香水 · 木质夏至",
+   "w": 822,
+   "h": 1125
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r26.webp",
+   "cap": "面霜 · 溪石苔痕",
+   "w": 1176,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r27.webp",
+   "cap": "精华 · 蜜色流动",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r28.webp",
+   "cap": "香薰 · 玻璃罩与木柜",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r29.webp",
+   "cap": "面霜 · 蓝色水域",
+   "w": 1120,
+   "h": 1680
+  },
+  {
+   "cat": "C",
+   "file": "assets/render/r40.webp",
+   "cap": "香水 · 暗调高光",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r01.webp",
+   "cap": "蕾丝 · 织物细节",
+   "w": 960,
+   "h": 540
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r02.webp",
+   "cap": "封面 · 光影秩序",
+   "w": 1680,
+   "h": 931
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r08.webp",
+   "cap": "皮革沙发 · 家居海报",
+   "w": 1680,
+   "h": 1165
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r09.webp",
+   "cap": "皮质特写 · 高光与褶皱",
+   "w": 476,
+   "h": 353
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r10.webp",
+   "cap": "扶手特写 · 织物纹理",
+   "w": 408,
+   "h": 478
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r12.webp",
+   "cap": "宠物窝 · 温馨生活场景",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "D",
+   "file": "assets/render/r47.webp",
+   "cap": "线条 · 抽象构成",
+   "w": 384,
+   "h": 384
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r05.webp",
+   "cap": "客厅 · 沙发与陈列",
+   "w": 1680,
+   "h": 938
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r06.webp",
+   "cap": "客厅 · 电视墙与木饰面",
+   "w": 1680,
+   "h": 917
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r07.webp",
+   "cap": "客厅 · 午后茶几",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r13.webp",
+   "cap": "卧室 · 床垫与日光",
+   "w": 1075,
+   "h": 1680
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r30.webp",
+   "cap": "人像 · 产品与人物",
+   "w": 1011,
+   "h": 1680
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r31.webp",
+   "cap": "椅具 · 人物场景",
+   "w": 1135,
+   "h": 1680
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r32.webp",
+   "cap": "扫地机 · 生活场景",
+   "w": 916,
+   "h": 1280
+  },
+  {
+   "cat": "E",
+   "file": "assets/render/r44.webp",
+   "cap": "室内 · 纱帘与暖光",
+   "w": 1680,
+   "h": 1019
+  },
+  {
+   "cat": "F",
+   "file": "assets/render/r34.webp",
+   "cap": "洞穴 · 暗部光照",
+   "w": 1280,
+   "h": 622
+  },
+  {
+   "cat": "F",
+   "file": "assets/render/r45.webp",
+   "cap": "钢琴花海 · 静物概念",
+   "w": 1680,
+   "h": 838
+  },
+  {
+   "cat": "F",
+   "file": "assets/render/r46.webp",
+   "cap": "高原城堡 · 环境搭建",
+   "w": 1008,
+   "h": 1680
+  }
+ ],
+ "concept": [
+  {
+   "file": "assets/concept/c01.webp",
+   "cap": "邮筒 · 材质做旧",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "file": "assets/concept/c02.webp",
+   "cap": "横版关卡 · 场景布局",
+   "w": 1680,
+   "h": 882
+  },
+  {
+   "file": "assets/concept/c03.webp",
+   "cap": "沙漠木塔 · 荒原日光",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "file": "assets/concept/c04.webp",
+   "cap": "香水 · 自然场景合成",
+   "w": 1680,
+   "h": 945
+  },
+  {
+   "file": "assets/concept/c05.webp",
+   "cap": "客厅 · 午后光线",
+   "w": 1680,
+   "h": 726
+  },
+  {
+   "file": "assets/concept/c06.webp",
+   "cap": "梳妆台 · 柔和材质",
+   "w": 1138,
+   "h": 1680
+  },
+  {
+   "file": "assets/concept/c07.webp",
+   "cap": "佛像空间 · 体积光",
+   "w": 1280,
+   "h": 720
+  }
+ ],
+ "photo": [
+  {
+   "file": "assets/photo/p01.webp",
+   "cap": "室内 · 柔光自拍",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p02.webp",
+   "cap": "镜前 · 逆光轮廓",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p03.webp",
+   "cap": "棋盘格 · 镜中双影",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p04.webp",
+   "cap": "午后 · 一杯热饮",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p05.webp",
+   "cap": "镜前 · 粉色细节",
+   "w": 1125,
+   "h": 1500
+  },
+  {
+   "file": "assets/photo/p06.webp",
+   "cap": "出街 · 米色渔夫帽",
+   "w": 1080,
+   "h": 1080
+  },
+  {
+   "file": "assets/photo/p07.webp",
+   "cap": "红衣 · 室内对镜",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p08.webp",
+   "cap": "发夹 · 暖光对镜",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p09.webp",
+   "cap": "透明壳 · 镜中侧影",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p10.webp",
+   "cap": "条纹针织 · 亮闪发夹",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p11.webp",
+   "cap": "雪后 · 低眉侧脸",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p12.webp",
+   "cap": "雪山湖 · 长风扑面",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p13.webp",
+   "cap": "大波浪 · 吸管与笑",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p14.webp",
+   "cap": "街角 · 一个手势",
+   "w": 1280,
+   "h": 1280
+  },
+  {
+   "file": "assets/photo/p15.webp",
+   "cap": "咖啡座 · 慵懒午后",
+   "w": 1080,
+   "h": 1440
+  },
+  {
+   "file": "assets/photo/p16.webp",
+   "cap": "石阶 · 白鸽掠过",
+   "w": 1200,
+   "h": 1500
+  },
+  {
+   "file": "assets/photo/p17.webp",
+   "cap": "沙滩 · 红毛衣",
+   "w": 1280,
+   "h": 1266
+  },
+  {
+   "file": "assets/photo/p18.webp",
+   "cap": "台阶 · 米色长裙",
+   "w": 1280,
+   "h": 1269
+  },
+  {
+   "file": "assets/photo/p19.webp",
+   "cap": "林间 · 指向白鸽",
+   "w": 1125,
+   "h": 1500
+  },
+  {
+   "file": "assets/photo/p20.webp",
+   "cap": "棋盘 · 手谈一局",
+   "w": 1500,
+   "h": 844
+  }
+ ],
+ "pano": {
+  "file": "assets/pano/interior.webp",
+  "w": 2048,
+  "h": 1007
+ }
+}
