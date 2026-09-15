@@ -1,6 +1,6 @@
 document.documentElement.classList.add('js');
 
-const ASSET_VERSION = '26';
+const ASSET_VERSION = '27';
 
 let clockTimer = 0;
 
@@ -323,14 +323,14 @@ const initContent = (root = document) => {
     const title = card.querySelector('h3').textContent;
     const meta = card.querySelector('small').textContent;
     const image = card.querySelector('img');
-    const source = image.currentSrc || image.src || image.dataset.src;
+    const source = image.dataset.full || image.currentSrc || image.src || image.dataset.src;
     openImage(source, title, meta, card.querySelector('p')?.textContent || '', auto);
   }, card.querySelector('.project-img') || card.querySelector('img')));
 
   root.querySelectorAll('[data-preview]').forEach((card) => bindPreview(card, (auto) => {
     const image = card.querySelector('img');
     openImage(
-      card.dataset.img || image.currentSrc || image.src || image.dataset.src,
+      card.dataset.img || image.dataset.full || image.currentSrc || image.src || image.dataset.src,
       card.dataset.title,
       card.dataset.meta,
       card.dataset.desc,
@@ -340,7 +340,7 @@ const initContent = (root = document) => {
 
   root.querySelectorAll('.gallery-item').forEach((item) => bindPreview(item, (auto) => {
     const image = item.querySelector('img');
-    const source = image.currentSrc || image.src || image.dataset.src;
+    const source = image.dataset.full || image.currentSrc || image.src || image.dataset.src;
     const title = item.querySelector('figcaption b')?.textContent || image.alt || '作品画面';
     const meta = item.querySelector('figcaption small')?.textContent || 'VISUAL ARCHIVE';
     openImage(source, title, meta, image.dataset.desc || title, auto);
